@@ -1,3 +1,5 @@
+## Description of the project
+
 Today we will integrate Typescript with our NodeJS boilerplate. If you are interested on how to setup Typescript with NodeJS then you can refer to the following articles
 
 https://www.mohammadfaisal.dev/blog/create-nodejs-typescript-boilerplate
